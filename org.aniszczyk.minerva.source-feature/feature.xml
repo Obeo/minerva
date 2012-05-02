@@ -3,19 +3,18 @@
       id="org.aniszczyk.minerva.source-feature"
       label="%featureName"
       version="1.0.0.qualifier"
-      provider-name="%providerName"
-      plugin="org.aniszczyk.minerva">
+      provider-name="%providerName">
 
    <description url="http://github.com/caniszczyk/minerva">
-     %description
+      %description
    </description>
 
    <copyright>
-     %copyright
+      %copyright
    </copyright>
 
    <license url="%licenseURL">
-     %license
+      %license
    </license>
 
    <plugin

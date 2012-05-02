@@ -1,0 +1,8 @@
+Parent project of OBEO's Minerva
+
+the launch config must be modified by each developer
+
+the pom.xml files contains profiles that must be used in the build.
+
+currently, there is a profile for 3.8 and 4.2 eclipse's releases.
+

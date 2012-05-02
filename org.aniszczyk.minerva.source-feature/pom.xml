@@ -17,6 +17,7 @@
     <groupId>org.aniszczyk.minerva</groupId>
     <artifactId>minerva-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+    <relativePath>../org.aniszczyk.minerva</relativePath>
   </parent>
 
   <artifactId>org.aniszczyk.minerva.source-feature</artifactId>

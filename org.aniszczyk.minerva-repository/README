@@ -1,0 +1,12 @@
+Update site project of OBEO's Minerva
+
+there should be ONE eclipse's hudson job for each branch ( including trunk )
+
+there MUST be builds parameters sets up for being able to correctly promote builds.
+
+A BUILD_TYPE parameter. type CHOICE, values N,I,S,R 
+
+A BUILD_ALIAS parameter. type STRING
+
+A BUILD_SIGN parameter. type BOOLEAN
+

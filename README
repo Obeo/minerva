@@ -1,2 +1,4 @@
 Minerva is the Maven version of Athena.
    - http://wiki.eclipse.org/Minerva
+
+This is the OBEO version of minerva, with some architecure choices. The parent project is located in org.aniszczyk.minerva.
