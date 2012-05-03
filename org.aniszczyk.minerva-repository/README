@@ -10,3 +10,5 @@ A BUILD_ALIAS parameter. type STRING
 
 A BUILD_SIGN parameter. type BOOLEAN
 
+Do not forget to archive artifatcs produced by the build job. something like  
+xyz.update/target/xyz.update.zip,xyz.update/target/repository/**,xyz.update/target/promotion/**
